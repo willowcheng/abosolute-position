@@ -40,9 +40,13 @@ a:hover {
 ==================================== */
 
 .ice-cream {
-
+    position: absolute;
+    top: 100px;
+    left: 50px;
 }
 
 .tea {
-
+    position: absolute;
+    right: 6em;
+    bottom: 50%;
 }
