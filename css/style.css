@@ -39,6 +39,10 @@ a:hover {
   Positioning Styles
 ==================================== */
 
+.main-header {
+    position: relative;
+}
+
 .ice-cream {
     position: absolute;
     top: 100px;
